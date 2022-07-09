@@ -1,3 +1,15 @@
+commit ede13c7fab54ebe4aa52f56844928d7293fd317d
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Thu Jul 7 18:48:29 2022 +0300
+
+    commit files
+
+commit fde2ea02f0f43f7e45ca6567e13c7c4d5d73d61e
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Thu Jul 7 18:27:08 2022 +0300
+
+    new file to add to main and develop
+
 commit acb7f2db390f496d9e7c8122f52638abf398c58b
 Author: harelkaravani <harel.karavani@checkmarx.com>
 Date:   Thu Jul 7 18:04:54 2022 +0300

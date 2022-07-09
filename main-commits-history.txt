@@ -1,0 +1,35 @@
+commit ede13c7fab54ebe4aa52f56844928d7293fd317d
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Thu Jul 7 18:48:29 2022 +0300
+
+    commit files
+
+commit fde2ea02f0f43f7e45ca6567e13c7c4d5d73d61e
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Thu Jul 7 18:27:08 2022 +0300
+
+    new file to add to main and develop
+
+commit acb7f2db390f496d9e7c8122f52638abf398c58b
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Thu Jul 7 18:04:54 2022 +0300
+
+    new file commit to 2 branches
+
+commit d30afbc0ace7e13d658e1a559a6203dd625be4c5
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Thu Jul 7 18:00:03 2022 +0300
+
+    change 2 in 1.txt
+
+commit 1d78355acbfdb1f8c851535aaa33c6bd40d1f20d
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Thu Jul 7 17:21:23 2022 +0300
+
+    change in 1.txt
+
+commit 8fedd0055399ad66aab33392b42091d68455e096
+Author: harelkaravani <harel.karavani@checkmarx.com>
+Date:   Thu Jul 7 16:56:09 2022 +0300
+
+    first file
